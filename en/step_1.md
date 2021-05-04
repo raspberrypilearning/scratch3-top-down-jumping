@@ -1,59 +1,48 @@
-## Introduction
-
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
-### What you will make
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+**Top-down jumping**: [See inside](https://scratch.mit.edu/projects/525300970/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/525300970/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+This code works on a computer with a keyboard and a mobile device with a touchscreen.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+**Stage:**
 
-+ A computer or tablet capable of running Scratch 3
+```blocks3
+when stage clicked // Works on a tablet
+broadcast (jump v)
+```
 
-### Software
+**Character sprite:**
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+```blocks3
+when flag clicked // setup
+point in direction [90] // Or a different direction
+go to x: [-200] y: [0]
+set size to [50] %
+```
 
-### Downloads
+```blocks3
+when [space v] key pressed // choose a key
+broadcast (jump v)
+```
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+```blocks3
+when I receive [jump v] // jump
+if <(size) = [50]> then // avoid double jumping
+start sound (Drum Boing v) // add a sound
+repeat [10] // jump up
+move [5] steps
+change size by [3]
+end
+repeat [10] // come back down
+move [5] steps
+change size by [-3]
+end
+set size to [50] % // make sure they are back to normal size
+end
+```
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
