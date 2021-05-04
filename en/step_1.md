@@ -19,7 +19,7 @@ broadcast (jump v)
 when flag clicked // setup
 point in direction [90] // Or a different direction
 go to x: [-200] y: [0]
-set size to [50] %
+set size to [50] % // choose a normal size
 ```
 
 ```blocks3
