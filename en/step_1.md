@@ -39,7 +39,7 @@ repeat [10] // come back down
 move [5] steps
 change size by [-3]
 end
-set size to [50] % // make sure they are back to normal size
+set size to [50] % // back to normal size
 end
 ```
 
