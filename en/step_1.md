@@ -1,11 +1,8 @@
 
---- no-print ---
-
 **Top-down jumping**: [See inside](https://scratch.mit.edu/projects/525300970/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/525300970/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
 This code works on a computer with a keyboard and a mobile device with a touchscreen.
 
