@@ -9,9 +9,9 @@ This code works on a computer with a keyboard and a mobile device with a touchsc
 **Character sprite:**
 
 ```blocks3
-when I receive [start v]
-forever
-if <<key (space v) pressed?> or <mouse down?>> then // keyboard and mobile friendly
+when I receive [start v] // broadcast start after setup
+forever // keyboard and mobile friendly
+if <<key (space v) pressed?> or <mouse down?>> then 
 start sound (Jump v)
 repeat [7]
 move [5] steps
