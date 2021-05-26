@@ -7,6 +7,8 @@
 This code works on a computer with a keyboard and a mobile device with a touchscreen.
 
 **Character sprite:**
+
+```blocks3
 when I receive [start v]
 forever
 if <<key (space v) pressed?> or <mouse down?>> then // keyboard and mobile friendly
@@ -21,3 +23,4 @@ change size by [-3] // get smaller while falling down
 end
 end
 end
+```
