@@ -6,40 +6,18 @@
 
 This code works on a computer with a keyboard and a mobile device with a touchscreen.
 
-**Stage:**
-
-```blocks3
-when stage clicked // Works on a tablet
-broadcast (jump v)
-```
-
 **Character sprite:**
-
-```blocks3
-when flag clicked // setup
-point in direction [90] // Or a different direction
-go to x: [-200] y: [0]
-set size to [50] % // choose a normal size
-```
-
-```blocks3
-when [space v] key pressed // choose a key
-broadcast (jump v)
-```
-
-```blocks3
-when I receive [jump v] // jump
-if <(size) = [50]> then // avoid double jumping
-start sound (Drum Boing v) // add a sound
-repeat [10] // jump up
+when I receive [start v]
+forever
+if <<key (space v) pressed?> or <mouse down?>> then // keyboard and mobile friendly
+start sound (Jump v)
+repeat [7]
 move [5] steps
-change size by [3]
+change size by [3] // get bigger while jumping up
 end
-repeat [10] // come back down
+repeat [7]
 move [5] steps
-change size by [-3]
+change size by [-3] // get smaller while falling down
 end
-set size to [50] % // back to normal size
 end
-```
-
+end
