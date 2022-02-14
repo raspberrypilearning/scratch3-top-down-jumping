@@ -1,0 +1,9 @@
+start
+
+broadcast start after setup
+
+keyboard and mobile friendly
+
+get bigger while jumping up
+
+get smaller while falling down
