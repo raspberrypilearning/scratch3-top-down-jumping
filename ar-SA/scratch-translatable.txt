@@ -1,9 +1,9 @@
-start
+إبدأ
 
-broadcast start after setup
+الشروع بالبث بعد الاعداد
 
-keyboard and mobile friendly
+مناسب مع لوحة مفاتيح وهاتف جوال
 
-get bigger while jumping up
+تكبر أثناء القفز
 
-get smaller while falling down
+تصغر عند السقوط
