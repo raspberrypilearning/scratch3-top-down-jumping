@@ -1,12 +1,12 @@
 ---
-title: Top-down jumping
+title: Saut de haut en bas
 hero_image: images/banner.png
-description: Make a character jump by moving and changing size in a top-down game or animation.
+description: Faire sauter un personnage en bougeant et en changeant de taille dans un jeu ou une animation de haut en bas.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Top-down jumping
+    title: Saut de haut en bas
 
