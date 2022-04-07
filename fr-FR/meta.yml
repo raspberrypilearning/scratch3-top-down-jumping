@@ -1,0 +1,11 @@
+---
+title: Saut de haut en bas
+hero_image: images/banner.png
+description: Faire sauter un personnage en bougeant et en changeant de taille dans un jeu ou une animation de haut en bas.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-04"
+steps:
+  - title: Saut de haut en bas
+
