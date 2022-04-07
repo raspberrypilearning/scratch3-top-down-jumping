@@ -1,9 +1,9 @@
-start
+démarrer
 
-broadcast start after setup
+envoyer à tous démarrer après la configuration
 
-keyboard and mobile friendly
+compatible clavier et mobile
 
-get bigger while jumping up
+devenir plus grand quand elle saute vers le haut
 
-get smaller while falling down
+devenir plus petite quand elle tombre vers le bas
