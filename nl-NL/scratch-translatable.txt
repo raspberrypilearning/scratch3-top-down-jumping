@@ -1,9 +1,9 @@
 start
 
-broadcast start after setup
+na ontvangst van start
 
-keyboard and mobile friendly
+geschikt voor toetsenbord en mobiel
 
-get bigger while jumping up
+groter worden tijdens het springen
 
-get smaller while falling down
+kleiner worden tijdens naar beneden vallen
