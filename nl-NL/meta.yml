@@ -1,0 +1,11 @@
+---
+title: Op en neer springen
+hero_image: images/banner.png
+description: Laat een personage op en neer springen en van grootte veranderen in een top-down game of animatie.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-04"
+steps:
+  - title: Op en neer springen
+
