@@ -1,9 +1,9 @@
-start
+inicio
 
-broadcast start after setup
+iniciar código después de la configuración
 
-keyboard and mobile friendly
+compatible con el teclado y dispositivos móviles
 
-get bigger while jumping up
+incrementar el tamaño al subir
 
-get smaller while falling down
+reducir el tamaño al bajar
