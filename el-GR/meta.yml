@@ -1,12 +1,12 @@
 ---
-title: Top-down jumping
+title: Άλμα πάνω κάτω
 hero_image: images/banner.png
-description: Make a character jump by moving and changing size in a top-down game or animation.
+description: Κάνε έναν χαρακτήρα να κάνει άλματα με μετακίνηση και αλλαγή μεγέθους σε ένα παιχνίδι ή κινούμενο σχέδιο αλμάτων.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Top-down jumping
+    title: Άλμα πάνω κάτω
 
