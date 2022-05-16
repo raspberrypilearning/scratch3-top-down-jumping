@@ -1,9 +1,9 @@
-start
+έναρξη
 
-broadcast start after setup
+μετάδοση μηνύματος έναρξης μετά τις ρυθμίσεις
 
-keyboard and mobile friendly
+φιλικό για πληκτρολόγιο και κινητά
 
-get bigger while jumping up
+μεγαλώνει όσο ανεβαίνει
 
-get smaller while falling down
+μικραίνει όσο κατεβαίνει
