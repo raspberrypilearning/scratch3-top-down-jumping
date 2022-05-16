@@ -1,0 +1,11 @@
+---
+title: Brincar
+hero_image: images/banner.png
+description: Haz que un personaje brinque moviendo y cambiando su tamaño en un juego o animación con vista de arriba hacia abajo.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-04"
+steps:
+  - title: Brincar
+

@@ -1,0 +1,9 @@
+inicio
+
+iniciar código después de la configuración
+
+compatible con el teclado y dispositivos móviles
+
+incrementar el tamaño al subir
+
+reducir el tamaño al bajar
