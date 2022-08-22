@@ -1,9 +1,9 @@
-start
+開始
 
-broadcast start after setup
+設定が終わったらメッセージを送る
 
-keyboard and mobile friendly
+キーボードでもﾓﾊﾞｲﾙデバイスでも動く
 
-get bigger while jumping up
+飛び上がるときは、だんだん大きくなる
 
-get smaller while falling down
+落ちていくときは、だんだん小さくなる
