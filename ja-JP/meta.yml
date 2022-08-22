@@ -1,12 +1,12 @@
 ---
-title: Top-down jumping
+title: 上から見下ろす視点でのジャンプ
 hero_image: images/banner.png
-description: Make a character jump by moving and changing size in a top-down game or animation.
+description: 上から見下ろす視点のゲームやアニメーションで、キャラクターの場所を動かしたり、サイズを変えたりしてジャンプしているように見せます。
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Top-down jumping
+    title: 上から見下ろす視点でのジャンプ
 
