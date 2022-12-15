@@ -1,9 +1,9 @@
-start
+dechrau
 
-broadcast start after setup
+darlledu dechrau ar ôl gosod
 
-keyboard and mobile friendly
+gwell ar gyfer bysellfwrdd a ffonnau symudol
 
-get bigger while jumping up
+mynd yn fwy wrth neidio i fyny
 
-get smaller while falling down
+mynd yn llai wrth syrthio i lawr
