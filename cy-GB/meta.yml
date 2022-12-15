@@ -1,12 +1,12 @@
 ---
-title: Top-down jumping
+title: Neidio o'r brig i lawr
 hero_image: images/banner.png
-description: Make a character jump by moving and changing size in a top-down game or animation.
+description: Gwneud i gymeriad neidio drwy symud a newid ei faint mewn gêm neu animeiddiad o'r brig i lawr.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Top-down jumping
+    title: Neidio o'r brig i lawr
 
