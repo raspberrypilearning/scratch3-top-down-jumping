@@ -1,0 +1,9 @@
+start
+
+rozpoczęcie animacji po konfiguracji
+
+przyjazny dla klawiatury i urządzeń mobilnych
+
+zwiększaj swój rozmiar podczas skakania
+
+zmniejszaj swój rozmiar podczas spadania
