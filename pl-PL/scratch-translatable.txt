@@ -1,9 +1,9 @@
 start
 
-broadcast start after setup
+rozpoczęcie animacji po konfiguracji
 
-keyboard and mobile friendly
+przyjazny dla klawiatury i urządzeń mobilnych
 
-get bigger while jumping up
+zwiększaj swój rozmiar podczas skakania
 
-get smaller while falling down
+zmniejszaj swój rozmiar podczas spadania
