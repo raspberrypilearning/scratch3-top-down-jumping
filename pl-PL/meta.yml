@@ -1,12 +1,12 @@
 ---
-title: Top-down jumping
+title: Skakanie w widoku z góry
 hero_image: images/banner.png
-description: Make a character jump by moving and changing size in a top-down game or animation.
+description: Spraw by postać skakała, poprzez poruszanie się i zmienianie rozmiaru w grze lub animacji z widokiem z góry.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Top-down jumping
+    title: Skakanie w widoku z góry
 
