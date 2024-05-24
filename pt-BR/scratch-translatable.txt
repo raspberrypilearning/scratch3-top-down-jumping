@@ -1,9 +1,9 @@
-start
+início
 
-broadcast start after setup
+início da transmissão após configuração
 
-keyboard and mobile friendly
+compatível com teclado e dispositivos móveis
 
-get bigger while jumping up
+fique maior enquanto pula
 
-get smaller while falling down
+ficar menor ao cair
