@@ -3,9 +3,9 @@
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-This code works on a computer with a keyboard and a mobile device with a touchscreen.
+Цей код працює на комп’ютерах з клавіатурою та мобільних пристроях із сенсорним екраном.
 
-**Character sprite:**
+**Спрайт персонажа:**
 
 ```blocks3
 when I receive [start v] // broadcast start after setup
