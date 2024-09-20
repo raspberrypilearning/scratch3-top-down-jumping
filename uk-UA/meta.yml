@@ -1,12 +1,12 @@
 ---
-title: Top-down jumping
+title: 'Стрибки: вид згори'
 hero_image: images/banner.png
-description: Make a character jump by moving and changing size in a top-down game or animation.
+description: Зроби так, ніби персонаж стрибає, змінюючи його розміщення та розмір у грі чи анімації з видом згори.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-04"
 steps:
   - 
-    title: Top-down jumping
+    title: 'Стрибки: вид згори'
 
