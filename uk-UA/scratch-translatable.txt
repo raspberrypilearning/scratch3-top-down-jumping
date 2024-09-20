@@ -1,9 +1,9 @@
-start
+старт
 
-broadcast start after setup
+оповістити за допомогою повідомлення «старт» після налаштування
 
-keyboard and mobile friendly
+підходить як для клавіатур, так і для мобільних пристроїв
 
-get bigger while jumping up
+збільшується, коли стрибає вгору
 
-get smaller while falling down
+зменшується, коли опускається
