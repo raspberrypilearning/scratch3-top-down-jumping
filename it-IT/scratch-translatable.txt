@@ -1,9 +1,9 @@
 start
 
-broadcast start after setup
+manda il segnale start dopo la configurazione iniziale
 
-keyboard and mobile friendly
+funziona sia con la tastiera che con il touchscreen
 
-get bigger while jumping up
+ingrandisce lo sprite quando salta
 
-get smaller while falling down
+rimpicciolisce lo sprite quando ricade a terra
