@@ -1,0 +1,9 @@
+start
+
+manda il segnale start dopo la configurazione iniziale
+
+funziona sia con la tastiera che con il touchscreen
+
+ingrandisce lo sprite quando salta
+
+rimpicciolisce lo sprite quando ricade a terra
